@@ -1,5 +1,6 @@
 ### Hi there 👋, I am a Computer Vision PhD student at Clemson University
 
+- 🔭* I’m currently working with Auto-AI@Clemson and AI4CE@NYU
 <!--
 **nobeldang/nobeldang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
